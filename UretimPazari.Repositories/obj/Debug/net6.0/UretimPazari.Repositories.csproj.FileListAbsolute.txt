@@ -1,0 +1,17 @@
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Repositories\bin\Debug\net6.0\UretimPazari.Repositories.deps.json
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Repositories\bin\Debug\net6.0\UretimPazari.Repositories.runtimeconfig.json
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Repositories\bin\Debug\net6.0\UretimPazari.Repositories.dll
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Repositories\bin\Debug\net6.0\UretimPazari.Repositories.pdb
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Repositories\bin\Debug\net6.0\UretimPazari.Entities.dll
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Repositories\bin\Debug\net6.0\UretimPazari.Entities.pdb
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Repositories\obj\Debug\net6.0\UretimPazari.Repositories.csproj.AssemblyReference.cache
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Repositories\obj\Debug\net6.0\UretimPazari.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Repositories\obj\Debug\net6.0\UretimPazari.Repositories.AssemblyInfoInputs.cache
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Repositories\obj\Debug\net6.0\UretimPazari.Repositories.AssemblyInfo.cs
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Repositories\obj\Debug\net6.0\UretimPazari.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Repositories\obj\Debug\net6.0\UretimPazari.Repositories.csproj.CopyComplete
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Repositories\obj\Debug\net6.0\UretimPazari.Repositories.dll
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Repositories\obj\Debug\net6.0\refint\UretimPazari.Repositories.dll
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Repositories\obj\Debug\net6.0\UretimPazari.Repositories.pdb
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Repositories\obj\Debug\net6.0\UretimPazari.Repositories.genruntimeconfig.cache
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Repositories\obj\Debug\net6.0\ref\UretimPazari.Repositories.dll

@@ -1,0 +1,17 @@
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.DataAccess\bin\Debug\net6.0\UretimPazari.DataAccess.deps.json
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.DataAccess\bin\Debug\net6.0\UretimPazari.DataAccess.runtimeconfig.json
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.DataAccess\bin\Debug\net6.0\UretimPazari.DataAccess.dll
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.DataAccess\bin\Debug\net6.0\UretimPazari.DataAccess.pdb
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.DataAccess\bin\Debug\net6.0\UretimPazari.Entities.dll
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.DataAccess\bin\Debug\net6.0\UretimPazari.Entities.pdb
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.DataAccess\obj\Debug\net6.0\UretimPazari.DataAccess.csproj.AssemblyReference.cache
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.DataAccess\obj\Debug\net6.0\UretimPazari.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.DataAccess\obj\Debug\net6.0\UretimPazari.DataAccess.AssemblyInfoInputs.cache
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.DataAccess\obj\Debug\net6.0\UretimPazari.DataAccess.AssemblyInfo.cs
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.DataAccess\obj\Debug\net6.0\UretimPazari.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.DataAccess\obj\Debug\net6.0\UretimPazari.DataAccess.csproj.CopyComplete
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.DataAccess\obj\Debug\net6.0\UretimPazari.DataAccess.dll
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.DataAccess\obj\Debug\net6.0\refint\UretimPazari.DataAccess.dll
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.DataAccess\obj\Debug\net6.0\UretimPazari.DataAccess.pdb
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.DataAccess\obj\Debug\net6.0\UretimPazari.DataAccess.genruntimeconfig.cache
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.DataAccess\obj\Debug\net6.0\ref\UretimPazari.DataAccess.dll

@@ -1,0 +1,11 @@
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Entities\bin\Debug\net6.0\UretimPazari.Entities.deps.json
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Entities\bin\Debug\net6.0\UretimPazari.Entities.dll
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Entities\bin\Debug\net6.0\UretimPazari.Entities.pdb
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Entities\obj\Debug\net6.0\UretimPazari.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Entities\obj\Debug\net6.0\UretimPazari.Entities.AssemblyInfoInputs.cache
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Entities\obj\Debug\net6.0\UretimPazari.Entities.AssemblyInfo.cs
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Entities\obj\Debug\net6.0\UretimPazari.Entities.csproj.CoreCompileInputs.cache
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Entities\obj\Debug\net6.0\UretimPazari.Entities.dll
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Entities\obj\Debug\net6.0\refint\UretimPazari.Entities.dll
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Entities\obj\Debug\net6.0\UretimPazari.Entities.pdb
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Entities\obj\Debug\net6.0\ref\UretimPazari.Entities.dll

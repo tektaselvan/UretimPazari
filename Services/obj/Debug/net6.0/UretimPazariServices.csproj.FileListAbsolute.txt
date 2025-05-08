@@ -1,0 +1,17 @@
+C:\Users\elvan\source\repos\UretimPazariProject\Services\bin\Debug\net6.0\UretimPazariServices.deps.json
+C:\Users\elvan\source\repos\UretimPazariProject\Services\bin\Debug\net6.0\UretimPazariServices.dll
+C:\Users\elvan\source\repos\UretimPazariProject\Services\bin\Debug\net6.0\UretimPazariServices.pdb
+C:\Users\elvan\source\repos\UretimPazariProject\Services\bin\Debug\net6.0\UretimPazari.Entities.dll
+C:\Users\elvan\source\repos\UretimPazariProject\Services\bin\Debug\net6.0\UretimPazari.Repositories.dll
+C:\Users\elvan\source\repos\UretimPazariProject\Services\bin\Debug\net6.0\UretimPazari.Entities.pdb
+C:\Users\elvan\source\repos\UretimPazariProject\Services\bin\Debug\net6.0\UretimPazari.Repositories.pdb
+C:\Users\elvan\source\repos\UretimPazariProject\Services\obj\Debug\net6.0\UretimPazariServices.csproj.AssemblyReference.cache
+C:\Users\elvan\source\repos\UretimPazariProject\Services\obj\Debug\net6.0\UretimPazariServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvan\source\repos\UretimPazariProject\Services\obj\Debug\net6.0\UretimPazariServices.AssemblyInfoInputs.cache
+C:\Users\elvan\source\repos\UretimPazariProject\Services\obj\Debug\net6.0\UretimPazariServices.AssemblyInfo.cs
+C:\Users\elvan\source\repos\UretimPazariProject\Services\obj\Debug\net6.0\UretimPazariServices.csproj.CoreCompileInputs.cache
+C:\Users\elvan\source\repos\UretimPazariProject\Services\obj\Debug\net6.0\UretimPazariServices.csproj.CopyComplete
+C:\Users\elvan\source\repos\UretimPazariProject\Services\obj\Debug\net6.0\UretimPazariServices.dll
+C:\Users\elvan\source\repos\UretimPazariProject\Services\obj\Debug\net6.0\refint\UretimPazariServices.dll
+C:\Users\elvan\source\repos\UretimPazariProject\Services\obj\Debug\net6.0\UretimPazariServices.pdb
+C:\Users\elvan\source\repos\UretimPazariProject\Services\obj\Debug\net6.0\ref\UretimPazariServices.dll
