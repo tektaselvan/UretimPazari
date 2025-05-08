@@ -55,7 +55,7 @@ Proje, **katmanlı mimari (Layered Architecture)** kullanılarak geliştirilmiş
 
 ## 📂 Katman Yapısı
 
-```UretimPazariProject/
+UretimPazariProject/
 │
 ├── UretimPazari.Entities         → Veri modelleri
 ├── UretimPazari.Repositories     → Veri erişimi ve Repository yapıları
