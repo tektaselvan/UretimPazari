@@ -62,7 +62,7 @@ Proje, **katmanlı mimari (Layered Architecture)** kullanılarak geliştirilmiş
 ├── UretimPazari.Services → İş mantığı (Business Layer)
 ├── UretimPazari.UI → Kullanıcı arayüzü (MVC/Desktop)
 └── README.md → Proje açıklaması
----(```)
+---```
 
 
 ## ✅ Öne Çıkan Özellikler
