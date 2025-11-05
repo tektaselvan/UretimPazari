@@ -9,3 +9,4 @@ C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Entities\obj\Debug\
 C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Entities\obj\Debug\net6.0\refint\UretimPazari.Entities.dll
 C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Entities\obj\Debug\net6.0\UretimPazari.Entities.pdb
 C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Entities\obj\Debug\net6.0\ref\UretimPazari.Entities.dll
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Entities\obj\Debug\net6.0\UretimPazari.Entities.sourcelink.json

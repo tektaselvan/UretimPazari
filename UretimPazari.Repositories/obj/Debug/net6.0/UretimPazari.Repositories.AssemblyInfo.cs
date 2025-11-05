@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UretimPazari.Repositories")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90279da7da0536fca9e200aa9014283b6c18b91e")]
 [assembly: System.Reflection.AssemblyProductAttribute("UretimPazari.Repositories")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UretimPazari.Repositories")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

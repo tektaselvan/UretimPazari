@@ -9,9 +9,10 @@ C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Repositories\obj\De
 C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Repositories\obj\Debug\net6.0\UretimPazari.Repositories.AssemblyInfoInputs.cache
 C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Repositories\obj\Debug\net6.0\UretimPazari.Repositories.AssemblyInfo.cs
 C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Repositories\obj\Debug\net6.0\UretimPazari.Repositories.csproj.CoreCompileInputs.cache
-C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Repositories\obj\Debug\net6.0\UretimPazari.Repositories.csproj.CopyComplete
 C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Repositories\obj\Debug\net6.0\UretimPazari.Repositories.dll
 C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Repositories\obj\Debug\net6.0\refint\UretimPazari.Repositories.dll
 C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Repositories\obj\Debug\net6.0\UretimPazari.Repositories.pdb
 C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Repositories\obj\Debug\net6.0\UretimPazari.Repositories.genruntimeconfig.cache
 C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Repositories\obj\Debug\net6.0\ref\UretimPazari.Repositories.dll
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Repositories\obj\Debug\net6.0\UretimPazari.Repositories.sourcelink.json
+C:\Users\elvan\source\repos\UretimPazariProject\UretimPazari.Repositories\obj\Debug\net6.0\UretimPa.84BF3F47.Up2Date

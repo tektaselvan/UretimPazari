@@ -502,7 +502,10 @@
       },
       "UretimPazari.Entities/1.0.0": {
         "runtime": {
-          "UretimPazari.Entities.dll": {}
+          "UretimPazari.Entities.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

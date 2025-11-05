@@ -1,8 +1,97 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Üretim Pazarı";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<style>
+    body {
+        background-color: #fff;
+        color: #37474f;
+        font-family: 'Segoe UI', sans-serif;
+    }
+
+    .hero-section {
+        background-color: #b0bec5;
+        color: #fff;
+        padding: 80px 0;
+        border-radius: 8px;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    }
+
+    .card {
+        background-color: #fff;
+        border: none;
+        border-radius: 12px;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    }
+
+    .card-title {
+        color: #546e7a;
+    }
+
+    .btn-custom {
+        background-color: #b0bec5;
+        color: #fff;
+        border: none;
+        transition: all 0.3s;
+    }
+
+    .btn-custom:hover {
+        background-color: #90a4ae;
+    }
+</style>
+
+<div class="hero-section text-center mb-5">
+    <h1 class="display-5 fw-bold">Üretim Pazarı</h1>
+    <p class="lead mt-3">
+        Üreticilerle alıcıları güvenli, dijital bir platformda buluşturuyoruz.
+    </p>
 </div>
+
+<div class="container text-center">
+    <div class="row justify-content-center">
+        <div class="col-md-4 mb-4">
+            <div class="card p-4">
+                <h5 class="card-title fw-bold">👷 Üreticiler İçin</h5>
+                <p class="text-muted">
+                    Ürünlerinizi ekleyin, siparişlerinizi yönetin ve üretim süreçlerinizi dijitalleştirin.
+                </p>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+            <div class="card p-4">
+                <h5 class="card-title fw-bold">🛒 Alıcılar İçin</h5>
+                <p class="text-muted">
+                    Üreticilere doğrudan ulaşın, en kaliteli ürünleri uygun fiyatlarla alın.
+                </p>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+            <div class="card p-4">
+                <h5 class="card-title fw-bold">📊 Verimlilik</h5>
+                <p class="text-muted">
+                    Satış verilerinizi analiz edin, iş süreçlerinizi daha verimli hale getirin.
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <div class="mt-5">
+        @if (User.Identity.IsAuthenticated)
+        {
+            <h4 class="text-success fw-semibold">Hoş geldin, @User.Identity.Name!</h4>
+            <p class="text-muted">Üretim paneline giderek ürünlerini yönetebilirsin.</p>
+            <a class="btn btn-custom" asp-controller="Dashboard" asp-action="Index">Panele Git</a>
+        }
+        else
+        {
+            <p class="text-muted">Hemen ücretsiz kayıt olarak üretim ağının bir parçası ol!</p>
+            <a class="btn btn-custom me-2" asp-controller="Account" asp-action="Register">Kayıt Ol</a>
+            <a class="btn btn-outline-secondary" asp-controller="Account" asp-action="Login">Giriş Yap</a>
+        }
+    </div>
+</div>
+
+<footer class="text-center mt-5 mb-3 text-muted">
+    
+    <small>&copy; @DateTime.Now.Year Üretim Pazarı — Dijital Üretim ve Ticaret Platformu</small>
+</footer>

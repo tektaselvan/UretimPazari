@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "GFoxRMe6vGG5Ty+sOxNFhJGdRm0cb2iF1DQA4JTHyplU1d3xW/Mq9c2YaDXcg7MfhlwGAGmwjOVUMdq62uc7wg==",
+  "dgSpecHash": "Q80ieOIxTMc=",
   "success": true,
   "projectFilePath": "C:\\Users\\elvan\\source\\repos\\UretimPazariProject\\UretimPazari.Repositories\\UretimPazari.Repositories.csproj",
   "expectedPackageFiles": [
@@ -48,5 +48,15 @@
     "C:\\Users\\elvan\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
     "C:\\Users\\elvan\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "C:\\Users\\elvan\\source\\repos\\UretimPazariProject\\UretimPazari.Repositories\\UretimPazari.Repositories.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\elvan\\source\\repos\\UretimPazariProject\\UretimPazari.Repositories\\UretimPazari.Repositories.csproj",
+      "targetGraphs": []
+    }
+  ]
 }
